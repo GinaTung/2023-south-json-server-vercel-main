@@ -51,7 +51,7 @@
         "area": "台南"
       }
     ],
-    "attractionPlanList":[
+    "attractionPlansList":[
       {
         "attractionPlanId": "RuvAB",
         "images": "./assets/images/plan3.png",
