@@ -90,7 +90,7 @@
       },
       {
         "attractionPlanId": "Lpdm8",
-        "images": "/assets/img/pic-grass.jpg",
+        "images": "./assets/img2/plan5.jpg",
         "images2": "",
         "firstDayAM": "",
         "firstDayNoon":"",
@@ -108,7 +108,7 @@
       },
       {
         "attractionPlanId": "ah3LE",
-        "images": "/assets/img/attraction3.png",
+        "images": "./assets/img2/plan4.png",
         "images2": "",
         "firstDayAM": "",
         "firstDayNoon":"",
