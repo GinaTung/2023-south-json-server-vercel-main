@@ -54,7 +54,7 @@
     "attractionPlansList":[
       {
         "attractionPlanId": "RuvAB",
-        "images": "./assets/img/plan3.png",
+        "images": "./assets/img2/plan3.png",
         "images2": "",
         "firstDayAM": "",
         "firstDayNoon":"",
@@ -72,7 +72,7 @@
       },
       {
         "attractionPlanId": "ffXfn",
-        "images": "/assets/img/plan2.png",
+        "images": "/assets/img2/plan2.png",
         "images2": "/assets/img/Frame 22.png",
         "firstDayAM": "",
         "firstDayNoon":"",
@@ -126,7 +126,7 @@
       },
       {
         "attractionPlanId": "t4neZ",
-        "images": "/assets/img/plan2.png",
+        "images": "/assets/img2/plan1.png",
         "images2": "",
         "firstDayAM": "",
         "firstDayNoon":"",
