@@ -72,7 +72,7 @@
       },
       {
         "attractionPlanId": "ffXfn",
-        "images": "/assets/img2/plan2.png",
+        "images": "./assets/img2/plan2.png",
         "images2": "/assets/img/Frame 22.png",
         "firstDayAM": "",
         "firstDayNoon":"",
@@ -126,7 +126,7 @@
       },
       {
         "attractionPlanId": "t4neZ",
-        "images": "/assets/img2/plan1.png",
+        "images": "./assets/img2/plan1.png",
         "images2": "",
         "firstDayAM": "",
         "firstDayNoon":"",
